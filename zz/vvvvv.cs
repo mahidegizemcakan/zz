@@ -8,5 +8,6 @@ namespace zz
 {
 	class vvvvv
 	{
+		public int MyProperty { get; set; }
 	}
 }
